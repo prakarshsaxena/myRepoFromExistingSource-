@@ -1,6 +1,5 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# Checking editor
 # TEAM
 
     <name> -- <role> -- <twitter>
