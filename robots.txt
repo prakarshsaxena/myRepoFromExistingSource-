@@ -3,5 +3,6 @@
 # Allow crawling of all content
 # Testing difftool
 # Testing difftool work. dir. vs commit area
+# added new branch 1 based on master
 User-agent: *
 Disallow:
