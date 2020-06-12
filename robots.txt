@@ -2,5 +2,6 @@
 
 # Allow crawling of all content
 # Testing difftool
+# Testing difftool work. dir. vs commit area
 User-agent: *
 Disallow:
