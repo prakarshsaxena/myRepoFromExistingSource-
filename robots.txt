@@ -3,6 +3,7 @@
 # Allow crawling of all content
 # Testing difftool
 # Testing difftool work. dir. vs commit area
+# Robots have feelings
 <<<<<<< HEAD
 # commiting after adding new branches
 =======
